@@ -1,0 +1,6 @@
+local idk = function.idk()
+   while idk do
+      wait()
+      print("idk")
+   end
+end
